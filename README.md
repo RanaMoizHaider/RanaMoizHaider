@@ -13,14 +13,14 @@
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizziee420&layout=compact"
     />
-  </a>
+<!--   </a>
   <a href="https://github.com/mizziee420/storefront">
     <img
       align="center"
       height="165"
       src="https://github-readme-stats.vercel.app/api/pin/?username=mizziee420&repo=storefront"
     />
-  </a>
+  </a> -->
 </p>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/mizziee420/mizziee420/master/gifs/Hi.gif" width="30px"></h2>
