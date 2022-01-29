@@ -13,8 +13,8 @@
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizziee420&layout=compact"
     />
-<!--   </a>
-  <a href="https://github.com/mizziee420/storefront">
+  </a>
+  <!--   <a href="https://github.com/mizziee420/storefront">
     <img
       align="center"
       height="165"
