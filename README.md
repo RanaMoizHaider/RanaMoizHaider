@@ -27,7 +27,7 @@
 
 ### Abstract
 
-- 👨‍💻 I'm currently working full-time at **<a href="https://github.com/officialMaxsoft">MaXsoft</a>!**
+- 👨‍💻 Currently working at **<a href="https://github.com/officialMaxsoft">MaXsoft</a>!**
 - 🌱 Learning more about and studying: **Laravel**.
 
 ### Languages and Tools
