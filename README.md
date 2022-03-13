@@ -7,21 +7,21 @@
   </a>
 </p>
 
-<p align="center">
+<!--   <p align="center">
   <a href="https://github.com/RanaMoizHaider#choose-pinned-repositories">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanaMoizHaider&layout=compact"
     />
   </a>
-  <!--   <a href="https://github.com/RanaMoizHaider/storefront">
+  <a href="https://github.com/RanaMoizHaider/storefront">
     <img
       align="center"
       height="165"
       src="https://github-readme-stats.vercel.app/api/pin/?username=RanaMoizHaider&repo=storefront"
     />
-  </a> -->
-</p>
+  </a>
+</p> -->
 
 ## Hi there! <img src="https://raw.githubusercontent.com/RanaMoizHaider/RanaMoizHaider/master/gifs/Hi.gif" width="30px"></h2>
 
