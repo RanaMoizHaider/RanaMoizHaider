@@ -28,9 +28,10 @@
 ### Abstract
 
 - 👨‍💻 Currently working at **<a href="https://github.com/officialMaxsoft">MaXsoft</a>!**
-- 🌱 Learning more about and studying: **Laravel**.
+- 🌱 Learning to code better every passing day.
 
 ### Find me around the web 🌎:
 
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/RanaMoizHaider/">LinkedIn</a>.
-- 🔥  Check out my <a href="https://RanaMoizHaider.github.io/">Portfolio</a>!
+- Check out my <a href="https://RanaMoizHaider.github.io/">Portfolio</a>! (Coming Soon)
+- <a href="https://www.linkedin.com/in/RanaMoizHaider/">LinkedIn</a>
+- <a href="https://www.twitter.com/RanaMoizHaider">Twitter</a>
