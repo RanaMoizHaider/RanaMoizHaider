@@ -32,6 +32,6 @@
 
 ### Find me around the web 🌎:
 
-- Check out my <a href="https://RanaMoizHaider.github.io/">Portfolio</a>! (Coming Soon)
+- <a href="https://RanaMoizHaider.com">Official Site</a> (Coming Soon)
 - <a href="https://www.linkedin.com/in/RanaMoizHaider/">LinkedIn</a>
 - <a href="https://www.twitter.com/RanaMoizHaider">Twitter</a>
