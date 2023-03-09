@@ -27,8 +27,8 @@
 
 ### About Me
 
-- Laravel Developer.
-- 🌱 Learning to code better everyday.
+- Laravel Developer
+- Learning to code better everyday
 
 ### Find me around the web 🌎:
 
