@@ -25,8 +25,9 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/RanaMoizHaider/RanaMoizHaider/master/gifs/Hi.gif" width="30px"></h2>
 
-### Abstract
+### About Me
 
+- Laravel Developer.
 - 🌱 Learning to code better everyday.
 
 ### Find me around the web 🌎:
