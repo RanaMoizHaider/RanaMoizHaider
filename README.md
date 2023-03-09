@@ -1,11 +1,11 @@
-<p align="center">
+<!-- <p align="center">
   <a href="#">
     <img align="center" width="280" src="https://raw.githubusercontent.com/RanaMoizHaider/RanaMoizHaider/master/images/signature.png" />
   </a>
   <a href="#">
     <img align="center" width="510" src="https://raw.githubusercontent.com/RanaMoizHaider/RanaMoizHaider/master/gifs/banner.gif" />
   </a>
-</p>
+</p> -->
 
 <!--   <p align="center">
   <a href="https://github.com/RanaMoizHaider#choose-pinned-repositories">
@@ -27,11 +27,10 @@
 
 ### Abstract
 
-- 👨‍💻 Currently working at **<a href="https://github.com/officialMaxsoft">MaXsoft</a>!**
-- 🌱 Learning to code better every passing day.
+- 🌱 Learning to code better everyday.
 
 ### Find me around the web 🌎:
 
-- <a href="https://RanaMoizHaider.com">Official Site</a> (Coming Soon)
+- <a href="https://RanaMoizHaider.com">Official Site</a>
 - <a href="https://www.linkedin.com/in/RanaMoizHaider/">LinkedIn</a>
 - <a href="https://www.twitter.com/RanaMoizHaider">Twitter</a>
