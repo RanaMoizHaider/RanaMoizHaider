@@ -35,4 +35,5 @@
 
 - <a href="https://RanaMoizHaider.com">Official Site</a>
 - <a href="https://www.linkedin.com/in/RanaMoizHaider/">LinkedIn</a>
-- <a href="https://www.twitter.com/RanaMoizHaider">Twitter</a>
+- <a href="https://www.x.com/RanaMoizHaider">X (Twitter)</a>
+- <a href="https://www.threads.net/RanaMoizHaider">Threads</a>
