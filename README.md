@@ -27,7 +27,8 @@
 
 ### About Me
 
-- Laravel Developer
+- Software Engineer
+- Currently building things with Filament (Laravel)
 - Learning to code better everyday
 
 ### Find me around the web 🌎:
