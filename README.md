@@ -25,6 +25,8 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/RanaMoizHaider/RanaMoizHaider/master/gifs/Hi.gif" width="30px"></h2>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ranamoizhaider&border_radius=10)](https://git.io/streak-stats)
+
 ### About Me
 
 - Software Engineer
